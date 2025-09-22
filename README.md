@@ -1,6 +1,8 @@
 Adriana Thomaz Melão
+
 ​Desenvolvedora Trainee | Front-End & IA/Python
-​Olá! Sou Adriana, uma desenvolvedora trainee com foco em criação de soluções full-stack, combinando habilidades de Front-End com o desenvolvimento de sistemas inteligentes em Python. Busco oportunidades para aplicar meu conhecimento e contribuir com projetos inovadores.
+
+​Olá! Sou Adriana Thomaz,uma desenvolvedora trainee com foco em criação de soluções full-stack, combinando habilidades de Front-End com o desenvolvimento de sistemas inteligentes em Python. Busco oportunidades para aplicar meu conhecimento e contribuir com projetos inovadores.
 ​Habilidades e Experiências
 ​Minha experiência atual inclui:
 ​Desenvolvimento Front-End: Habilidades em HTML, CSS e JavaScript para a criação de interfaces de usuário responsivas. Meus projetos demonstram competência na construção de aplicações web funcionais.
