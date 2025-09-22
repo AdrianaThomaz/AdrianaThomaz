@@ -1,8 +1,19 @@
-## Bem-vindo(a) ao perfil da Adriana Thomaz 😁
-
-Olá! Sou Adriana Thomaz, desenvolvedora apaixonada por Python, APIs e o universo #DevOps.
-Em transição para Engenharia de Software | Cloud & DevOps (GCP).
-Aprendendo e aplicando javascript e Python, FastAPI, Docker e CI/CD. Autodidata e com propósito. 🌱
+Adriana Thomaz Melão
+​Desenvolvedora Trainee | Front-End & IA/Python
+​Olá! Sou Adriana, uma desenvolvedora trainee com foco em criação de soluções full-stack, combinando habilidades de Front-End com o desenvolvimento de sistemas inteligentes em Python. Busco oportunidades para aplicar meu conhecimento e contribuir com projetos inovadores.
+​Habilidades e Experiências
+​Minha experiência atual inclui:
+​Desenvolvimento Front-End: Habilidades em HTML, CSS e JavaScript para a criação de interfaces de usuário responsivas. Meus projetos demonstram competência na construção de aplicações web funcionais.
+​Análise de Dados e IA: Experiência com Python na análise de dados, automação de processos e construção de dashboards interativos. Tenho projetos que utilizam ferramentas como Power BI e Streamlit, além de experiência com IA para a criação de agentes inteligentes.
+​Tecnologias de Interesse (Em Aprimoramento)
+​Estou em constante aprendizado e me aprofundando em:
+​Ferramentas: Conhecimento em Git e GitHub para controle de versão, e entendimento de como trabalhar com APIs RESTful para integração de sistemas.
+​Frameworks: Explorando LangChain para aplicações com LLMs, Docker e Kubernetes para orquestração de contêineres, e Vue.js para desenvolvimento de interfaces web.
+​Ambientes e Serviços: Uso o Visual Studio Code e Google Colab, com interesse em expandir meu conhecimento em serviços do Google Cloud.
+​Objetivo Profissional
+​Meu objetivo é conseguir uma vaga de trainee que me permita aplicar e aprimorar minhas habilidades em Front-End, Análise de Dados ou IA. Sou uma profissional proativa, com forte aptidão para a resolução de problemas e adaptável a novos ambientes.
+​Agradeço a visita e convido você a explorar meus repositórios para conhecer meus projetos.
+🌱
 
 <div>
   <a href="https://github.com/adrianathomaz">
